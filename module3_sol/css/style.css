@@ -1,1 +1,11 @@
+.navbar-dark .navbar-toggler{
+    border-color: #343a40;
+    outline-color: #343a40;
+}
 
+h1{
+    font-size: calc(100% + 1.5vw + 1.5vh);
+}
+/* p{
+    height: 1000px;
+} */
